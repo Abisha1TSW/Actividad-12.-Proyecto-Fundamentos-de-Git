@@ -62,87 +62,95 @@ $\frac{π}{4} \in \mathbb{I}, \mathbb{R}$ Es irracional al no tener un decimal f
 $√9 \in \mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ porque es un entero positivo (3) y todo número natural es entero, es racional porque se puede expresar como $\frac{√9}{1}$ y todo racional también es real.
 ...
 ## Tercera Seccion
+## Tercera Seccion
 
 **Usando PEMDAS, resuelve las siguientes expresiónes aritméticas:**
 
 13.) $6 - (3 - 1)$
+
 $$
 \begin{array}{l c l}
 6 - (3 - 1) & & \text{1. Se resuelve el paréntesis} \\
-6 - (3 - 1) & & \text{2. Primero la resta dentro del paréntesis} \\
-6 - (2) & & \text{3. Si no hay más operaciones, se quitan los paréntesis} \\
-(6 - 2) & & \text{4. Se hacen las sumas/restas faltantes} \\
-4 & &   \\
+6 - (2) & & \text{2. Primero la resta dentro del paréntesis} \\
+(6 - 2) & & \text{3. Si no hay más operaciones, se quitan los paréntesis} \\
+4 & & \text{4. Se hacen las sumas/restas faltantes}
 \end{array}
 $$
+
 El resultado de $6 - (3 - 1) = 4$
 
 14.) $18 \div (2 + 4)$
+
 $$
 \begin{array}{l c l}
 18 \div (2 + 4) & & \text{1. Se resuelve el paréntesis} \\
-18 \div (2 + 4) & & \text{2. Primero la suma dentro del paréntesis} \\
-18 \div (6) & & \text{3. Si no hay más operaciones, se quitan los paréntesis} \\
-18 \div 6 & & \text{4. Se hacen las operaciones faltantes} \\
-3 & &   \\
+18 \div (6) & & \text{2. Primero la suma dentro del paréntesis} \\
+18 \div 6 & & \text{3. Si no hay más operaciones, se quitan los paréntesis} \\
+3 & & \text{4. Se hacen las operaciones faltantes}
 \end{array}
 $$
+
 El resultado de $18 \div (2 + 4) = 3$
 
 15.) $(9 \times -3 + (1 - 2) \div -1 + 5 ) \times 3$
+
 $$
 \begin{array}{l c l}
 (9 \times -3 + (1 - 2) \div -1 + 5) \times 3 & & \text{1. Se resuelve el paréntesis} \\
-(9 \times -3 + (1 - 2) \div -1 + 5) \times 3 & & \text{2. Primero la resta} \\
-(9 \times -3 + (-1) \div -1 + 5) \times 3 & & \text{3. Si no hay más operaciones, se quita el paréntesis} \\
-(9 \times -3 + -1 \div -1 + 5) \times 3 & & \text{4. De izquierda a derecha se resuelven div/mult} \\
-(-27 + 1 + 5) \times 3 & & \text{5. Suma desde el lado izquierdo} \\
-(-26 + 5) \times 3 & & \text{6. La suma que estaba más a la derecha} \\
-(-21) \times 3 & & \text{7. Se elimina el último paréntesis} \\
--21 \times 3 & & \text{8. Se hacen las operaciones faltantes} \\
--63 & &   \\
+(9 \times -3 + (-1) \div -1 + 5) \times 3 & & \text{2. Primero la resta} \\
+(9 \times -3 + -1 \div -1 + 5) \times 3 & & \text{3. Si no hay más operaciones, se quita el paréntesis} \\
+(-27 + 1 + 5) \times 3 & & \text{4. De izquierda a derecha se resuelven div/mult} \\
+(-26 + 5) \times 3 & & \text{5. Suma desde el lado izquierdo} \\
+(-21) \times 3 & & \text{6. La suma que estaba más a la derecha} \\
+-21 \times 3 & & \text{7. Se elimina el último paréntesis} \\
+-63 & & \text{8. Se hacen las operaciones faltantes}
 \end{array}
 $$
+
 El resultado de $(9 \times -3 + (1 - 2) \div -1 + 5 ) \times 3 = -63$
 
 16.) $(7 \times 3 \times -1 ((-28 \times 2) \div 8 + 9 ))$
+
 $$
 \begin{array}{l c l}
-7 \times 3 \times -1 ((-28 \times 2) \div 8 + 9) & & \text{1. Primero la multiplicación dentro del paréntesis}\\
+7 \times 3 \times -1 ((-28 \times 2) \div 8 + 9) & & \text{1. Primero la multiplicación dentro del paréntesis} \\
 7 \times 3 \times -1 ((-56) \div 8 + 9) & & \text{2. Ahora se remueve el primer paréntesis} \\
 7 \times 3 \times -1 (-56 \div 8 + 9) & & \text{3. Después la división} \\
 7 \times 3 \times -1 (-7 + 9) & & \text{4. Sigue la resta dentro del paréntesis} \\
 7 \times 3 \times -1 (2) & & \text{5. Se mantiene el segundo paréntesis} \\
 21 \times -1 (2) & & \text{6. Inicia la multiplicación} \\
 -21 (2) & & \text{7. Finaliza la multiplicación} \\
--42 & & \text{8. Se resuelve la multiplicación final} \\
+-42 & & \text{8. Se resuelve la multiplicación final}
 \end{array}
 $$
+
 El resultado de $(7 \times 3 \times -1 ((-28 \times 2) \div 8 + 9 )) = -42$
 
 17.) $(22 + -6 \times 2 + 17 - 7) \div (2 \times 2)$
+
 $$
 \begin{array}{l c l}
-(22 + (-6 \times 2) + 17 - 7) \div (2 \times 2) & & \text{1. Primero las multiplicaciones dentro de los paréntesis}\\
-(22 + (-12) + 17 - 7) \div (4) & & \text{2. Se remueven los paréntesis listos}\\
-(22 + -12 + 17 - 7) \div 4 & & \text{3. Se realizan sumas y diferencias de izquierda a derecha}\\
-(20) \div 4 & & \text{4. Se remueve el paréntesis}\\
-20 \div 4 & & \text{5. Se realiza la división}\\
-5 & &   \\
+(22 + (-6 \times 2) + 17 - 7) \div (2 \times 2) & & \text{1. Primero las multiplicaciones dentro de los paréntesis} \\
+(22 + (-12) + 17 - 7) \div (4) & & \text{2. Se remueven los paréntesis listos} \\
+(22 + -12 + 17 - 7) \div 4 & & \text{3. Se realizan sumas y diferencias de izquierda a derecha} \\
+(20) \div 4 & & \text{4. Se remueve el paréntesis} \\
+5 & & \text{5. Se realiza la división}
 \end{array}
 $$
+
 El resultado de $(22 + -6 \times 2 + 17 - 7) \div (2 \times 2) = 5$
 
 18.) $(4 - 1) \times -8 \div (5 - (4 + 1) - 1)$
+
 $$
 \begin{array}{l c l}
 (4 - 1) \times -8 \div (5 - (4 + 1) - 1) & & \text{1. Primero las sumas dentro de los paréntesis} \\
-(3) \times -8 \div (5 - (5) - 1) & & \text{2. Se remueven los paréntesis}\\
-3 \times -8 \div (5 - 5 - 1) & & \text{3. Se resuelve el último paréntesis}\\
-3 \times -8 \div (-1) & & \text{4. El último paréntesis desaparece}\\
-3 \times -8 \div -1 & & \text{5. Se realizan multiplicaciones/divisiones de izquierda a derecha}\\
--24 \div -1 & & \text{6. Se realiza la división}\\
-24 & &   \\
+(3) \times -8 \div (5 - (5) - 1) & & \text{2. Se remueven los paréntesis} \\
+3 \times -8 \div (5 - 5 - 1) & & \text{3. Se resuelve el último paréntesis} \\
+3 \times -8 \div (-1) & & \text{4. El último paréntesis desaparece} \\
+-24 \div -1 & & \text{5. Se realizan multiplicaciones/divisiones de izquierda a derecha} \\
+24 & & \text{6. Se realiza la división}
 \end{array}
 $$
+
 El resultado de $(4-1) \times -8 \div (5 - (4 + 1) - 1) = 24$
