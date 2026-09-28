@@ -1,3 +1,9 @@
+# Rodrigo Abishai Pool Tamayo
+
+## Actividad #11. Ejercicios – Operaciones algebraicas.
+ Fundamentos de algebra
+ 29 de septiembre del 2026
+ Parte del grupo de 1ºB
 ## **Simplifica las siguientes expresiones**
 
 ### **Ejercicio 115**
