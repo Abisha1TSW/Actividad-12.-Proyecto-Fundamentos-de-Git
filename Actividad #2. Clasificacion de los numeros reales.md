@@ -64,95 +64,85 @@ $√9 \in \mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ porque es un entero po
 ## Tercera Seccion
 
 **Usando PEMDAS, resuelve las siguientes expresiónes aritméticas:**
+
 13.) $6 - (3 - 1)$
 $$
 \begin{array}{l c l}
-6 - \textcolor{red}{(3 - 1)} \ & & \text{1. Se resuelve el paréntesis} \\
-6 - (\textcolor{red}{3 - 1}) \ & & \text{2. Primero la resta dentro del paréntesis} \\
-6 - \textcolor{red}{(2)} \ & & \text{3. Si no hay más operaciones, se quitan} \\
-  & & \text{los paréntesis} \\
-\textcolor{red}{(6 - 2)} \ & & \text{4. Se hacen las sumas/restas faltantes} \\
+6 - (3 - 1) & & \text{1. Se resuelve el paréntesis} \\
+6 - (3 - 1) & & \text{2. Primero la resta dentro del paréntesis} \\
+6 - (2) & & \text{3. Si no hay más operaciones, se quitan los paréntesis} \\
+(6 - 2) & & \text{4. Se hacen las sumas/restas faltantes} \\
 4 & &   \\
 \end{array}
 $$
 El resultado de $6 - (3 - 1) = 4$
 
-14.)18 ÷ (2 + 4)
+14.) $18 \div (2 + 4)$
 $$
 \begin{array}{l c l}
-18 ÷ \textcolor{red}{(2 + 4)} \ & & \text{1. Se resuelve el paréntesis} \\
-18 ÷ (\textcolor{red}{2 + 4}) \ & & \text{2. Primero la suma dentro del paréntesis} \\
-18 ÷ \textcolor{red}{(6)} \ & & \text{3. Si no hay más operaciones, se quitan} \\
-  & & \text{los paréntesis} \\
-\textcolor{red}{18 ÷ 6} \ & & \text{4. Se hacen las operaciones faltantes} \\
+18 \div (2 + 4) & & \text{1. Se resuelve el paréntesis} \\
+18 \div (2 + 4) & & \text{2. Primero la suma dentro del paréntesis} \\
+18 \div (6) & & \text{3. Si no hay más operaciones, se quitan los paréntesis} \\
+18 \div 6 & & \text{4. Se hacen las operaciones faltantes} \\
 3 & &   \\
 \end{array}
 $$
-El resultado de $18 ÷ (2 + 4) = 3$
+El resultado de $18 \div (2 + 4) = 3$
 
-15.)(9 x -3 + (1 - 2) ÷ -1 + 5 ) x 3
+15.) $(9 \times -3 + (1 - 2) \div -1 + 5 ) \times 3$
 $$
 \begin{array}{l c l}
- (9 \times - 3  + \textcolor{red}{(1 - 2 )} \div -1 + 5) \times 3 & & \text{1. Se resuelve el paréntesis} \\
-(9 \times - 3  + \textcolor{red}{(1 - 2 )} \div -1 + 5) \times 3 & & \text{2. Primero la resta} \\
-(9 \times - 3  + \textcolor{red}{(- 1)} \div -1 + 5) \times 3 & & \text{3. Si no hay más operaciones, se quita} \\
-  & & \text{el paréntesis} \\
-(\textcolor{red}{9 \times - 3  } + \textcolor{red}{-1 \div -1} \ +5 ) \times 3 & & \text{4. De izquierda a derecha se} \\
-  & & \text{resuelven las divisiones/multiplicaciones} \\
-(\textcolor{red}{-27 + 1  } \ + 5) \times 3 & & \text{5. Suma desde el lazo izquierdo} \\
-(\textcolor{red}{-26 + 5}) \times 3 & & \text{6. La suma que estaba mas a la derecha} \\
-\textcolor{red}{(-21)} \times 3 & & \text{7. Se elimina el último  paréntesis} \\
-\textcolor{red}{-21 \times 3} \ & & \text{8. Se hacen las operaciones faltantes} \\
+(9 \times -3 + (1 - 2) \div -1 + 5) \times 3 & & \text{1. Se resuelve el paréntesis} \\
+(9 \times -3 + (1 - 2) \div -1 + 5) \times 3 & & \text{2. Primero la resta} \\
+(9 \times -3 + (-1) \div -1 + 5) \times 3 & & \text{3. Si no hay más operaciones, se quita el paréntesis} \\
+(9 \times -3 + -1 \div -1 + 5) \times 3 & & \text{4. De izquierda a derecha se resuelven div/mult} \\
+(-27 + 1 + 5) \times 3 & & \text{5. Suma desde el lado izquierdo} \\
+(-26 + 5) \times 3 & & \text{6. La suma que estaba más a la derecha} \\
+(-21) \times 3 & & \text{7. Se elimina el último paréntesis} \\
+-21 \times 3 & & \text{8. Se hacen las operaciones faltantes} \\
 -63 & &   \\
 \end{array}
 $$
-El resultado de $(9 \times -3 + (1 - 2) ÷ -1 + 5 ) \times 3 = -63$
+El resultado de $(9 \times -3 + (1 - 2) \div -1 + 5 ) \times 3 = -63$
 
-16.)(7 x 3 x - 1 ((-28 x 2) ÷ 8 + 9 )
+16.) $(7 \times 3 \times -1 ((-28 \times 2) \div 8 + 9 ))$
 $$
 \begin{array}{l c l}
- \ 7 \times  3  \times- 1 (\textcolor{red}{(-28 \times 2)} \div 8 + 9) \ & & \text{1. Primero la multiplicación dentro}\\
-  & & \text{del paréntesis} \\
- \ 7 \times  3 \times  - 1 (\textcolor{red}{(-56)} \div 8 + 9) \ & & \text{2. Ahora se remueve el primer paréntesis} \\
- \ 7 \times  3 \times - 1 (\textcolor{red}{-56 \div 8}\ + 9) \ & & \text{3. Despues la division} \\
- \ 7 \times  3 \times - 1 (\textcolor{red}{-7+ 9}) \ & & \text{4. Sigue la resta dentro del paréntesis} \\
- \ 7 \times  3 \times - 1 \textcolor{red}{(2)} \ & & \text{5. Se mantiene el segundo paréntesis} \\
- \textcolor{red}{7 \times 3} \times -1 \ (2) \ & & \text{6. Inicia la multiplicación} \\
-\textcolor{red}{21 \times -1} \ (2) \ & & \text{7. Finaliza la multiplicación} \\
-\textcolor{red}{-21 \ (2)} \ & & \text{8. Este paréntesis representa una multiplicación } \\
-\ & & \text{y se resuelve} \\
--42 & &   \\
+7 \times 3 \times -1 ((-28 \times 2) \div 8 + 9) & & \text{1. Primero la multiplicación dentro del paréntesis}\\
+7 \times 3 \times -1 ((-56) \div 8 + 9) & & \text{2. Ahora se remueve el primer paréntesis} \\
+7 \times 3 \times -1 (-56 \div 8 + 9) & & \text{3. Después la división} \\
+7 \times 3 \times -1 (-7 + 9) & & \text{4. Sigue la resta dentro del paréntesis} \\
+7 \times 3 \times -1 (2) & & \text{5. Se mantiene el segundo paréntesis} \\
+21 \times -1 (2) & & \text{6. Inicia la multiplicación} \\
+-21 (2) & & \text{7. Finaliza la multiplicación} \\
+-42 & & \text{8. Se resuelve la multiplicación final} \\
 \end{array}
 $$
-El resultado de $(7 \times 3 \times - 1 ((-28 \times 2) ÷ 8 + 9 ) = -42$
+El resultado de $(7 \times 3 \times -1 ((-28 \times 2) \div 8 + 9 )) = -42$
 
-17.)(22 + - 6 x 2 + 17 - 7) ÷ (2 x 2)
+17.) $(22 + -6 \times 2 + 17 - 7) \div (2 \times 2)$
 $$
 \begin{array}{l c l}
-(\ 22 + \textcolor{red}{(-6 \times 2)} \ + 17 - 7 ) \div\textcolor{red}{(2 \times 2)} \ & & \text{1. Primero las multiplicaciónes dentro}\\
-  & & \text{de los paréntesis} \\
-(\ 22 + \textcolor{red}{(-12)} \ + 17 - 7 ) \div\textcolor{red}{(4)} \ & & \text{2. Se remueven los paréntesis que ya estan listos}\\
-\textcolor{red}{(22 + -12 + 17 - 7)} \div 4 \ & & \text{3. Se realizan las sumas/diferencias}\\
-\ & & \text{de izquierda a derecha}\\
-\textcolor{red}{(20)} \div 4 \ & & \text{4. Se remueve el paréntesis}\\
-\textcolor{red}{20 \div 4} \ & & \text{5. Se realiza la division}\\
+(22 + (-6 \times 2) + 17 - 7) \div (2 \times 2) & & \text{1. Primero las multiplicaciones dentro de los paréntesis}\\
+(22 + (-12) + 17 - 7) \div (4) & & \text{2. Se remueven los paréntesis listos}\\
+(22 + -12 + 17 - 7) \div 4 & & \text{3. Se realizan sumas y diferencias de izquierda a derecha}\\
+(20) \div 4 & & \text{4. Se remueve el paréntesis}\\
+20 \div 4 & & \text{5. Se realiza la división}\\
 5 & &   \\
 \end{array}
 $$
-El resultado de $(22 + - 6 \times 2 + 17 - 7) ÷ (2 \times 2) = 5$
+El resultado de $(22 + -6 \times 2 + 17 - 7) \div (2 \times 2) = 5$
 
-18.)(4-1) x - 8 ÷ (5 - (4 + 1) - 1)
+18.) $(4 - 1) \times -8 \div (5 - (4 + 1) - 1)$
 $$
 \begin{array}{l c l}
-\textcolor{red}{(4 - 1)} \times - 8\div \ (5 - \textcolor{red}{(4 + 1)} \ - 1) \ & & \text{1. Primero las sumas dentro}\\
-  & & \text{de los paréntesis} \\
-\textcolor{red}{(3)} \times - 8 \div \ (5 - \textcolor{red}{(5)} \ - 1) \ & & \text{2. Se remueven los paréntesis}\\
-\ 3 \times -8 \div \textcolor{red}{(5 - 5 - 1)} \  & & \text{3. Se resuelve el último paréntesis}\\
-\ 3 \times -8 \div \textcolor{red}{(-1)} \  & & \text{3. El último paréntesis desaparece}\\
-\textcolor{red}{ 3 \times -8 \div - 1 } \  & & \text{3. Se realizan las multiplicaciónes/divisiones}\\
-\ & & \text{de izquierda a derecha}\\
-\textcolor{red}{-24 \div -1} \ & & \text{5. Se realiza la division}\\
+(4 - 1) \times -8 \div (5 - (4 + 1) - 1) & & \text{1. Primero las sumas dentro de los paréntesis} \\
+(3) \times -8 \div (5 - (5) - 1) & & \text{2. Se remueven los paréntesis}\\
+3 \times -8 \div (5 - 5 - 1) & & \text{3. Se resuelve el último paréntesis}\\
+3 \times -8 \div (-1) & & \text{4. El último paréntesis desaparece}\\
+3 \times -8 \div -1 & & \text{5. Se realizan multiplicaciones/divisiones de izquierda a derecha}\\
+-24 \div -1 & & \text{6. Se realiza la división}\\
 24 & &   \\
 \end{array}
 $$
-El resultado de $(4-1) \times - 8 ÷ (5 - (4 + 1) - 1) = 24$
+El resultado de $(4-1) \times -8 \div (5 - (4 + 1) - 1) = 24$
